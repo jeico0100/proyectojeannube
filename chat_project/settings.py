@@ -26,7 +26,13 @@ DEBUG = True
 
 # settings.py
 
-ALLOWED_HOSTS = ['proyectojeannubegit.azurewebsites.net', 'localhost', '127.0.0.1']
+# settings.py
+
+ALLOWED_HOSTS = [
+    'proyectojeannubegit.azurewebsites.net',
+    'localhost',
+    '127.0.0.1'
+]
 
 # Application definition
 
